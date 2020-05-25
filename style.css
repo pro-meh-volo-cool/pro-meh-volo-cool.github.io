@@ -1,0 +1,30 @@
+/* Navbar */
+
+.nav {
+  background: #30A6E6;
+}
+
+.nav-item {
+  padding: 5px;
+}
+
+.nav-item, .active {
+  background: #000000;
+}
+
+.nav-link, .nav-link:hover {
+  color:#800000;
+  font: bold 14px sans-serif;
+}
+
+/* Section */
+
+.hero-block {
+  background-image: url("https://res.cloudinary.com/dfog0e294/image/upload/v1541583630/web-design/Supergirl-and-Superman-at-Night-wallpaper-dc-comics-41107893-1920-1080.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.text-muted{
+  color: #00FF00;
+ }
