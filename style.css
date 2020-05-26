@@ -10,8 +10,7 @@ color:#20B2AA;
 }
 
  .nav-item, .active {
-/*   background: #000000; */
-/*    color:#20B2AA; */
+  background: #000000;
 } 
 .nav-item:hover{
   color:#008B8B;
